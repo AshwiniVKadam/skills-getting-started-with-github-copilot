@@ -70,6 +70,15 @@ section h3 {
   color: #0066cc;
 }
 
+.activity-card h5 {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 1.1em;
+  color: #333;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+}
+
 .activity-card p {
   margin-bottom: 8px;
 }
@@ -83,6 +92,8 @@ section h3 {
 
 .activity-card ul li {
   margin-bottom: 5px;
+  font-size: 0.95em;
+  color: #555;
 }
 
 .form-group {
